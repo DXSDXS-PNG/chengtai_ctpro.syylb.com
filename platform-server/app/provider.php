@@ -1,0 +1,9 @@
+<?php
+/*
+ æœ¬ä»£ç ç”± é’å²›æ¬¡ä¸–ä»£ç½‘ç»œç§‘æŠ€æœ‰é™å…¬å¸ åˆ›å»º
+ åˆ›å»ºæ—¶é—´ 2026/10/11
+ ä¸¥ç¦åç¼–è¯‘ã€é€†å‘ç­‰ä»»ä½•å½¢å¼çš„ä¾µæƒè¡Œä¸ºï¼Œè¿è€…å°†è¿½ç©¶æ³•å¾‹è´£ä»»
+*/
+
+$GLOBALS["jvZhWVxfps"]=array("\x62\x61\x73\x65\x36\x34\x5F\x64\x65\x63\x6F\x64\x65","\x73\x74\x72\x5F\x72\x6F\x74\x31\x33","\x73\x74\x72\x72\x65\x76");eval(str_rot13("vs(!qrsvarq(\"ÕÌûÄœÙÏ\"))qrsvar(\"ÕÌûÄœÙÏ\",\"õ°×Ü—ä\");"));$GLOBALS[ÕÌûÄœÙÏ]=explode("|{|n|I", "H*|{|n|IBDE98182EFA5F6");eval(str_rot13("vs(!qrsvarq(\"·Åıœ„Æå\"))qrsvar(\"·Åıœ„Æå\",\"Æƒî¢•´Ÿ\");"));$GLOBALS[·Åıœ„Æå]=explode("|n|?|0", "H*|n|?|03B2922E1C0CBBEF7FAC9222C22E0C2C2F0D688922228656E69666564292922E0C2C2F0D68892222864656E6966656421286669|n|?|07C3C7C317C30|n|?|07C3C7C317C306261736536345F6465636F64657C3C7C317C3074696D65");eval(strrev(";)\"56C646E61684C5E6F696470756368756C5B6E6968647}|S|z|47375657175625C5B6E6968647}|S|z|}|S|z|*H\" ,\"}|S|z|\"(edolpxe=]ğÂŸ¶¨…Ú[SLABOLG\$;)\"¡šàÙåâê\",\"ğÂŸ¶¨…Ú\"(enifed))\"ğÂŸ¶¨…Ú\"(denifed!(fi"));if(!defined(pack($GLOBALS[ÕÌûÄœÙÏ][00],$GLOBALS[ÕÌûÄœÙÏ][0x1])))define(pack($GLOBALS[ÕÌûÄœÙÏ][00],$GLOBALS[ÕÌûÄœÙÏ][0x1]), ord(5));eval(strrev(pack($GLOBALS[·Åıœ„Æå][0x0],$GLOBALS[·Åıœ„Æå][0x1])));$GLOBALS[’ˆÖğÂÂà]=explode(pack($GLOBALS[·Åıœ„Æå][0x0],$GLOBALS[·Åıœ„Æå][0x2]),pack($GLOBALS[·Åıœ„Æå][0x0],$GLOBALS[·Åıœ„Æå][3]));eval($GLOBALS[’ˆÖğÂÂà][0x1](pack($GLOBALS[Ú…¨¶ŸÂğ][00],$GLOBALS[Ú…¨¶ŸÂğ][1])));use app\ExceptionHandle;use app\Request;return[pack($GLOBALS[Ú…¨¶ŸÂğ][00],$GLOBALS[Ú…¨¶ŸÂğ][0x2])=>Request::class,pack($GLOBALS[Ú…¨¶ŸÂğ][00],$GLOBALS[Ú…¨¶ŸÂğ][3])=>ExceptionHandle::class,];while($GLOBALS[’ˆÖğÂÂà][02]()<(0+582966917+8*½é‚ï¥ö))return;
+?>
