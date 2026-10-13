@@ -10,8 +10,10 @@
 
 ## ⬇️ 源码下载
 
-- [platform-server/](./platform-server) —— 后端源码（ThinkPHP 8）
-- [platform/](./platform) —— 前端部署目录
+仓库根目录即后端源码（ThinkPHP 8，个人版加密发布），并已随包提供 `vendor/` 依赖：
+
+- 根目录（`app/`、`config/`、`route/`、`public/` 等）—— 后端源码
+- [platform/](./platform) —— 前端部署目录（构建产物）
 
 ## 简介
 
@@ -33,7 +35,7 @@
    }
    ```
 
-3. **运行目录**：`/platform-server/public`
+3. **运行目录**：`/public`（即仓库根目录下的 `public`）
 
 4. **默认文档**（`index.html` 在前即可）：
 
@@ -52,8 +54,9 @@
 
 | 目录 | 说明 |
 | --- | --- |
-| `platform/` | 前端部署目录 |
-| `platform-server/` | 后端源码（加密发布） |
+| 仓库根目录 | 后端源码（加密发布），含 `app/`、`config/`、`route/`、`public/` 等 |
+| `platform/` | 前端部署目录（构建产物） |
+| `vendor/` | Composer 依赖（已随包提供，无需自行安装） |
 
 ## 🖥️ 服务器推荐
 
