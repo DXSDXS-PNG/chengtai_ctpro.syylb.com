@@ -1,0 +1,15 @@
+1.PHP8.3
+2.伪静态：location / {
+    if (!-e $request_filename) {
+        rewrite ^(.*)$ /index.php?s=$1 last;
+    }
+}
+3.运行目录:/platform-server/public
+4.index.html
+index.php
+index.htm
+default.php
+default.htm
+default.html
+（index.html在前就可以）
+5.访问域名/install进行安装

