@@ -1,0 +1,97 @@
+/* 仪表盘右侧资源位：视口宽度大于 1617px 时与内容区并排显示，超过则隐藏 */
+.console-content.ct-resource-layout {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+}
+
+.console-content.ct-resource-layout > .ct-resource-aside {
+  flex: 0 0 360px;
+  margin-left: 20px;
+  padding: 20px;
+  border-radius: 15px;
+  background: #fff;
+}
+
+.console-content.ct-resource-layout > *:not(.ct-resource-aside) {
+  flex: 1 1 0;
+  min-width: 0;
+}
+
+.console-content.ct-resource-layout > .ant-alert {
+  flex: 0 0 100%;
+}
+
+.ct-resource-card {
+  display: flex;
+  align-items: center;
+  width: 96%;
+  margin: 0 auto 8px;
+  padding: 10px 0;
+  border-radius: 15px;
+  background: #f7f7f7;
+  text-decoration: none;
+  transition: 0.2s;
+}
+
+.ct-resource-card:hover {
+  padding-left: 5px;
+  background: linear-gradient(to right, rgba(58, 98, 236, 0.1), #eee);
+}
+
+.ct-resource-icon {
+  flex: 0 0 45px;
+  height: 45px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.ct-resource-info {
+  flex: 1;
+  min-width: 0;
+}
+
+.ct-resource-title {
+  display: block;
+  font-size: 16px;
+  line-height: 35px;
+  color: #333;
+}
+
+.ct-resource-desc {
+  display: block;
+  width: 80%;
+  margin-top: -5px;
+  font-size: 14px;
+  color: #999;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.ct-resource-go {
+  flex: 0 0 30px;
+  opacity: 0.4;
+}
+
+.ct-resource-go::after {
+  content: "";
+  display: block;
+  width: 7px;
+  height: 7px;
+  margin: 0 auto;
+  border-top: 1.5px solid #8c8c8c;
+  border-right: 1.5px solid #8c8c8c;
+  transform: rotate(45deg);
+}
+
+@media (max-width: 1617px) {
+  .console-content.ct-resource-layout {
+    display: block;
+  }
+
+  .console-content.ct-resource-layout > .ct-resource-aside {
+    display: none;
+  }
+}
